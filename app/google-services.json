@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "555072734922",
+    "firebase_url": "https://team-d5557.firebaseio.com",
+    "project_id": "team-d5557",
+    "storage_bucket": "team-d5557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555072734922:android:9ee56585de903bbc",
+        "android_client_info": {
+          "package_name": "com.example.sara.team"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555072734922-ieo0ro1b4utb3ef6pgi1ao6vh9g18jjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9E0ZQqg6Ki3YOk0Ab3O8-T3IKnooAg2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

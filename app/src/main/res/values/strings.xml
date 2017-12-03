@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Team</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_profile">Profile</string>
+
+    <string name="acount_settings">Account Setting</string>
+    <string name="app_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_account__settings">Account_Settings</string>
+    <string name="title_activity_tset">tset</string>
+    <string name="title_activity_home">Home</string>
+
+</resources>
